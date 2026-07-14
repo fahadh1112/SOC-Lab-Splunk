@@ -33,7 +33,6 @@ This project demonstrates the setup of a Security Operations Center (SOC) lab us
 
 ✔ Forward Server Configured
 
-⚠ Sysmon forwarding through Universal Forwarder is under troubleshooting.
 
 ## Documentation
 
